@@ -1,3 +1,3 @@
-# IMDAC (I Might Detect And Click)
-For the day this turns 'I Must Detect And Click'
+# Sorry_Youtube - An Automatic Ad Skipper
+Skip Object Spotter based on YOLO
 
